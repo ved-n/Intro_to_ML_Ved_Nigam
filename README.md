@@ -45,5 +45,5 @@
         </li>
         
 <li class="masthead__menu-item">
-          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/Searching For Similarity.pdf">Narrative on kMeans, Decision Trees, Clustering, and Data Dimensionality</a>
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/Searching For Similarity Narrative.pdf">Narrative on kMeans, Decision Trees, Clustering, and Data Dimensionality</a>
         </li>
