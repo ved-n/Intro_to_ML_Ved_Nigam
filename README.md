@@ -43,3 +43,7 @@
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/PCA_and_LDA.pdf">Changing Dimensions of data with PCA and LDA</a>
         </li>
+        
+<li class="masthead__menu-item">
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/Searching For Similarity.pdf">Narrative on kMeans, Decision Trees, Clustering, and Data Dimensionality</a>
+        </li>
