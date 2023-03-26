@@ -27,3 +27,19 @@
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/naive_bayes_from_scratch.cpp">Incomplete Naive Bayes Algorithm in C++</a>
         </li>
+        
+<li class="masthead__menu-item">
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/SFSRegression.pdf">Regression with kNN and Decision Trees in R</a>
+        </li>
+        
+<li class="masthead__menu-item">
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/classification.pdf">Classification with kNN and Decision Trees in R</a>
+        </li>
+
+<li class="masthead__menu-item">
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/Clustering.pdf">kMeans and Hierarchal Clustering in R</a>
+        </li>
+        
+<li class="masthead__menu-item">
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/PCA_and_LDA.pdf">Changing Dimensions of data with PCA and LDA</a>
+        </li>
