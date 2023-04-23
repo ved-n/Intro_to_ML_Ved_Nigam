@@ -51,3 +51,7 @@
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/PythonMLwSklearn.pdf">Intro to ML in Python with Numpy, Pandas, Seaborn, and SKlearn</a>
         </li>
+        
+<li class="masthead__menu-item">
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/blob/main/ImageClassification.pdf">Image Classification using Sequential and CNN</a>
+        </li>
