@@ -2,7 +2,7 @@
 ### Ved Nigam
 
 ## Skills used in the making of this portfolio
-# Technical
+### Technical
 - Data Manipulation in C++
 - Heavy focus on Machine Learning libraries in R
 - Machine Learning with small, medium, and large datasets
@@ -13,7 +13,7 @@
 - Keras library in Tensorflow for image classification
 - Jupyter Notebook, Google Collab, Kaggle environment
 
-# Soft
+### Soft
 - Time management, since assignments were due on Saturday 6PM
 - Coordinating with a partner and being able to pick a good partner
 - Coordinating with a team and setting up meeting times
