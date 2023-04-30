@@ -19,28 +19,30 @@ Our first assignment in C++ to refresh some basic concepts we learned in earlier
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/Regression.pdf">Linear Regression on a CPU-FPS Dataset</a>
         </li>
-        
-## Component 3
-A Linear Regression model trained in R on A CPU dataset. The model aims to find a relationship between the performance metrics of a CPU and how many Frames per Second it is able to support.
+A Linear Regression model trained in R on A CPU dataset. The model aims to find a relationship between the performance metrics of a CPU and how many Frames per Second it is able to support. Coden in R
+
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/classification.pdf">Logistic Regression on a Diamond Dataset</a>
         </li>
-      
-## Component 4
+Made a model for classifying the types of Diamonds. There 6 categories of diamonds in the dataset, and the model uses attributed about the diamond to be able to classify it. Coded in R.
+
+## Component 3
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/LinReg and NB from Scratch.pdf">Document of Analysis of LinReg and NB from Scratch in C++</a>
         </li>
+Document of Analysis of Linear Regression and Naive Bayes Algorithm in C++
 
-## Component 5
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/linear_regression.cpp">Linear Regression Algorithm in C++</a>
         </li>
+Simple Linear Regression alorithm on a titanic dataset to classify whether a passenger survived or not.
 
 <li class="masthead__menu-item">
-          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/naive_bayes_from_scratch.cpp">Incomplete Naive Bayes Algorithm in C++</a>
+          <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/naive_bayes_from_scratch.cpp">Naive Bayes Algorithm in C++</a>
         </li>
+Incomplete Naive Bayes algorithm to classify whether a passenger on the Titanic survived or not.    
 
-## Component 6
+## Component 5
 The following few documents are part of a group project. I was the one who split up the work, set up the calls, peer evaluation, and corresponded with the group as needed. The narrative towards the end is also written by me, which is a good sumamry of the concepts that were experimented with in this Similariy and Ensemble project.
 
 <li class="masthead__menu-item">
@@ -68,13 +70,13 @@ Experimented with changing the dimensions of data. The main difference between t
         </li>
 A summary of the concepts that were implemented above in this component of the portfolio.        
 
-## Component 7
+## Component 6
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/PythonMLwSklearn.pdf">Intro to ML in Python</a>
         </li>
 A pivot from R to Python for Machine Learning. We introduced the most popular libraries such as Numpy, Pandas, Seaborn, and SKLearn for data science.
 
-## Component 8
+## Component 7
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/blob/main/ImageClassification.pdf">Image Classification using Sequential and CNN</a>
         </li>
