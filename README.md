@@ -1,16 +1,19 @@
-# 4375_Ved_Nigam_Work
+# Intro to Machine Learning Portfolio
+### Ved Nigam
 
-### Assignment 0
+## Component 0
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/blob/main/Overview%20of%20ML.pdf">Overview of ML</a>
         </li>
         
 In this assignment, we researched what Machine Learning is and how it has developed recently. It seems very daunting as a term and concept; but with more research, it all seems more doable. This document is my initial research/findings of what Machine Learning is.
 
-        
+## Component 1
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/Exploration_cpp">Data Exploration in C++</a>
         </li>
+        
+Our first assignment in C++ to refresh some basic concepts we learned in earlier courses. This code reads in data from a 'Boston.csv' file which contains housing market data of a certain time period in Boston. We perform simple statistical analysis (mean, median, sum, range) as well as some intermediate statistical analysis (covariance and correlation). This was a very nice intro to what we will continue to work on throughout this class. 
         
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/tree/main/Regression.pdf">Linear Regression on a CPU-FPS Dataset</a>
