@@ -1,7 +1,7 @@
 # 4375_Ved_Nigam_Work
 
-## Assignment 0
-###<li class="masthead__menu-item">
+### Assignment 0
+<li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/blob/main/Overview%20of%20ML.pdf">Overview of ML</a>
         </li>
         
