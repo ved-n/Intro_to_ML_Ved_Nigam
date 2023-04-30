@@ -1,6 +1,25 @@
 # Intro to Machine Learning Portfolio
 ### Ved Nigam
 
+## Skills used in the making of this portfolio
+# Technical
+- Data Manipulation in C++
+- Heavy focus on Machine Learning libraries in R
+- Machine Learning with small, medium, and large datasets
+- Various classification and regression algorithms
+- Clustering and dimensionality of data
+- Python for ML
+- Pandas, Numpy, Seaborn, Matplotlib, Tensorflow
+- Keras library in Tensorflow for image classification
+- Jupyter Notebook, Google Collab, Kaggle environment
+
+# Soft
+- Time management, since assignments were due on Saturday 6PM
+- Coordinating with a partner and being able to pick a good partner
+- Coordinating with a team and setting up meeting times
+- Asking the right questions to make sure everyone is on the same page
+- Printing to pdf, html, or markdown notebook
+
 ## Component 0
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/blob/main/Overview%20of%20ML.pdf">Overview of ML</a>
