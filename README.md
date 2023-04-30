@@ -1,5 +1,7 @@
 # 4375_Ved_Nigam_Work
 
+## Assignment 0
+In this assignment, we researched what Machine Learning is and how it has developed recently. It seems very daunting as a term and concept; but with more research, it all seems more doable. This document is my initial research/findings of what Machine Learning is.
 <li class="masthead__menu-item">
           <a href="https://github.com/ved-n/4375_Ved_Nigam_Work/blob/main/Overview%20of%20ML.pdf">Overview of ML</a>
         </li>
